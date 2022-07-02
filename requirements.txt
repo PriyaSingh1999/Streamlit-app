@@ -1,4 +1,5 @@
 heroku
+numpy
 matplotlib
 pandas
 Pillow
