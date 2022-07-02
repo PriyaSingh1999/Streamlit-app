@@ -1,11 +1,11 @@
-heroku==0.1.4
-matplotlib==3.5.2
-matplotlib-inline==0.1.3
-numpy==1.23.0
-pandas==1.4.3
-Pillow==9.1.1
-scikit-learn==1.1.1
-seaborn==0.11.2
-sklearn==0.0
-streamlit==1.10.0
+heroku
+matplotlib
+
+numpy
+pandas
+Pillow
+scikit-learn
+seaborn
+sklearn
+streamlit
 
