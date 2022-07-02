@@ -1,6 +1,6 @@
 from sklearn.model_selection import train_test_split
 import streamlit as st
-import numpy as np
+#import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib
@@ -49,7 +49,7 @@ def main():
             if st.checkbox('Display Null Values'):
                 st.write(df.isnull().sum())
             if st.checkbox("Display the data types"):
-                st.write(df.dtypes)
+                st.write(df.astype(str))
             if st.checkbox("Display Correlation of data various columns"):
                 st.write(df.corr)
 
