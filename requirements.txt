@@ -1,6 +1,6 @@
 heroku
 matplotlib
-
+wheel
 numpy
 pandas
 Pillow
