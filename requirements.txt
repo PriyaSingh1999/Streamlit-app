@@ -5,7 +5,7 @@ asttokens
 attrs
 backcall
 beautifulsoup4
-bleach==5.0.1
+bleach
 blinker
 cachetools
 certifi
@@ -71,9 +71,7 @@ pyrsistent
 python-dateutil
 pytz
 pytz-deprecation-shim
-pywin32
-pywinpty
-pyzmq
+
 requests
 rich
 scikit-learn
