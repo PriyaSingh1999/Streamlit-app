@@ -72,6 +72,8 @@ python-dateutil
 pytz
 pytz-deprecation-shim
 
+pywinpty
+pyzmq
 requests
 rich
 scikit-learn
